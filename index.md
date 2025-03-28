@@ -11,7 +11,6 @@ This is a development project to create a mail initiated customer satisfaction s
 ### Description
 
 This project consist of a number of AWS platforms and components as follows:
-1This project consists of a number of AWS platforms and components as follows:
 1. Single VPC - Shared services
 
 
