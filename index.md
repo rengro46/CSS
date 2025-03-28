@@ -4,7 +4,7 @@
 
 ## Customer Satisfaction Survey
 
-This is a development project to create a Mail based customer satisfaction survey upon closure of any customer ticket (both for Incidents and Service requests)
+This is a development project to create a mail initiated customer satisfaction survey immediately post closure of any customer ticket (both for Incidents and Service requests)
 
 ---
 
